@@ -1,5 +1,5 @@
-# estudiando-vue-js
-Este repositorio cuenta con todos aquellos recursos necesarios para aprender VueJS y su ecosistema
+# :eyeglasses: Estudiando VueJS :eyeglasses:
+Este repositorio cuenta con todos aquellos recursos necesarios para aprender VueJS y su ecosistema. Si cuentas con más recursos interesantes sobre VueJS, no dudes en compartirlos y hacer una Pull Request 
 
 ## Índice
 
