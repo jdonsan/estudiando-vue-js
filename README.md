@@ -93,3 +93,12 @@ TBD
 
 ## Twiteros
 
+* [Evan You](https://twitter.com/youyuxi)
+* [Sarah Drasner](https://twitter.com/sarah_edo)
+* [Alligator](https://twitter.com/alligatorio)
+* [Alex Jover Morales](https://twitter.com/alexjoverm)
+* [Juan Andrés Nuñez](https://twitter.com/juanwmedia)
+* [Rafael Casuso](https://twitter.com/Rafael_Casuso)
+* [Javier Abadía](https://twitter.com/javierabadia)
+
+
