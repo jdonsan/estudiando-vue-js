@@ -13,7 +13,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Repositorios](#repositorios)
 * [Comunidades](#comunidades)
 * [Twiteros](#twiteros)
-* Funcionalidades
+* [Funcionalidades](#funcionalidades)
   * Templates
   * Estilos
   * Directivas
@@ -27,6 +27,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
   * Nuxt
   * Integraciones
   * Webpack
+  * [Migraciones](#migraciones)
 
 
 ## Oficiales
@@ -46,6 +47,8 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Curso de VueJS 2 y JWT con Vuex en Uno de Piera](https://www.uno-de-piera.com/curso-de-vuejs-2/)
 * [Aprende Vue y Firebase paso a paso de Juan Andrés Nuñez](http://vue.wmedia.es/)
 * [Learning VueJS](https://www.youtube.com/watch?v=1CrZX259CXk&list=PLkZU2rKh1mT-FVgtePvwmApoX-bWhwhau)
+* [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+* [Curso de Vue.js 2 con Vuex](https://www.cursosdesarrolloweb.es/course/curso-de-vue-js-2-con-vuex/curriculum/)
 
 ## Libros
 
@@ -65,6 +68,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 ## Blogs
 
 * [Alligator.io](https://alligator.io/vuejs/)
+* [VueJS Developers](http://vuejsdevelopers.com/)
 * [Blog de Evan You](http://blog.evanyou.me/)
 * [VueJS en Medium](https://medium.com/tag/vuejs)
 * [CSS Tricks](https://css-tricks.com/search-results/?q=vuejs)
@@ -72,6 +76,9 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Eggheadio](https://egghead.io/search?q=vuejs)
 * [A wonderful journey: migrating from Angular to Vue (and why not React)](http://tech.glovoapp.com/a-wonderful-journey-migrating-from-angular-to-vue-js/)
 * [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
+* [Blog de Jaime Olmo](http://www.jaimeolmo.com/tag/vuejs/)
+* [Dev.to relacionados con Vue](https://dev.to/t/vuejs)
+* [Yo.Toledano](https://yo.toledano.org/tag/vuejs.html)
 
 ## Podcasts
 
@@ -79,9 +86,9 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Tech Time](https://soundcloud.com/techtime/vue-js)
 * [CodeCast](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## Web 
+## Webs 
 
-TBD
+* [Pens sobre Vue](https://codepen.io/tag/vuejs/)
 
 ## Repositorios
 
@@ -101,4 +108,9 @@ TBD
 * [Rafael Casuso](https://twitter.com/Rafael_Casuso)
 * [Javier Abadía](https://twitter.com/javierabadia)
 
+## Funcionalidades
 
+### Migraciones
+
+* [Moving From Angular to Vue : A vuetiful journey](https://dev.to/hemantisme/moving-from-angular-to-vue--a-vuetiful-journey)
+* [Migrating from KnockoutJS to VueJS](https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/)
