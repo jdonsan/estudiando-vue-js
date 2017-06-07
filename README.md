@@ -17,7 +17,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
   * Templates
   * Estilos
   * Directivas
-  * Filtros
+  * [Filtros](#filtros)
   * Plugins
   * Mixins
   * Generadores
@@ -79,6 +79,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Blog de Jaime Olmo](http://www.jaimeolmo.com/tag/vuejs/)
 * [Dev.to relacionados con Vue](https://dev.to/t/vuejs)
 * [Yo.Toledano](https://yo.toledano.org/tag/vuejs.html)
+* [Coligo](https://coligo.io/tag/vue)
 
 ## Podcasts
 
@@ -89,6 +90,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 ## Webs 
 
 * [Pens sobre Vue](https://codepen.io/tag/vuejs/)
+* [Vue Script](http://www.vuescript.com/)
 
 ## Repositorios
 
@@ -109,6 +111,16 @@ TBD
 * [Javier Abadía](https://twitter.com/javierabadia)
 
 ## Funcionalidades
+
+### Filtros 
+
+* [VueJS Filters]https://coligo.io/vuejs-filters/)
+* [Create filters in Vue](https://egghead.io/lessons/vue-create-filters-in-vue-js)
+* [Using filters in Vue](https://css-tricks.com/using-filters-vue-js/)
+* [Uso de filtros en interpolaciones de texto en Vue.js 2](https://styde.net/uso-de-filtros-en-interpolaciones-de-texto-en-vue-js-2/)
+* [Vue.js 2 - Filtros em Listas](http://www.vuejs-brasil.com.br/vue-js-2-filtros-em-listas/)
+* [Simple Filter Component For Vue.js](http://www.vuescript.com/simple-filter-component-vue-js/)
+* [Novos Filters do Vue.js 2](http://andreybleme.com/2016-11-19/filters-vuejs-20/)
 
 ### Migraciones
 
