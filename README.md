@@ -114,7 +114,7 @@ TBD
 
 ### Filtros 
 
-* [VueJS Filters]https://coligo.io/vuejs-filters/)
+* [VueJS Filters](https://coligo.io/vuejs-filters/)
 * [Create filters in Vue](https://egghead.io/lessons/vue-create-filters-in-vue-js)
 * [Using filters in Vue](https://css-tricks.com/using-filters-vue-js/)
 * [Uso de filtros en interpolaciones de texto en Vue.js 2](https://styde.net/uso-de-filtros-en-interpolaciones-de-texto-en-vue-js-2/)
