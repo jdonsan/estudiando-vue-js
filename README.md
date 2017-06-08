@@ -8,15 +8,16 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Libros](#libros)
 * [Charlas](#charlas)
 * [Blogs](#blogs)
+* [Posts](#posts)
 * [Podcasts](#podcasts)
 * [Webs](#webs)
 * [Repositorios](#repositorios)
 * [Comunidades](#comunidades)
 * [Twiteros](#twiteros)
 * [Funcionalidades](#funcionalidades)
-  * Templates
+  * [Templates](#templates)
   * Estilos
-  * Directivas
+  * [Directivas](#directivas)
   * [Filtros](#filtros)
   * Plugins
   * Mixins
@@ -81,6 +82,10 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Yo.Toledano](https://yo.toledano.org/tag/vuejs.html)
 * [Coligo](https://coligo.io/tag/vue)
 
+## Posts
+
+* [What I Learned About VueJS From Building A Chrome Extension](http://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/)
+
 ## Podcasts
 
 * [FullStack Radio](http://www.fullstackradio.com/30)
@@ -111,6 +116,21 @@ TBD
 * [Javier Abadía](https://twitter.com/javierabadia)
 
 ## Funcionalidades
+
+### Templates
+
+* [7 Ways To Define A Component Template in VueJS](https://medium.com/js-dojo/7-ways-to-define-a-component-template-in-vuejs-c04e0c72900d)
+* [Understanding VueJS Templates](https://www.youtube.com/watch?v=wvcA2gvOYP4)
+* [React’s JSX vs Vue’s templates: a showdown on the front end](https://medium.freecodecamp.com/reacts-jsx-vs-vue-s-templates-a-showdown-on-the-front-end-b00a70470409)
+* [2-Way Data Binding with v-model](https://albraga.gitbooks.io/learning-vuejs/content/2-way-data-binding-with-v-model.html)
+
+### Directivas 
+
+* [How to make a reusable “directive” in Vue.js](https://medium.com/@heatherbooker/how-to-make-a-reusable-directive-in-vue-js-b28e1dfd76a3)
+* [Guide: How to use Vue.js with jQuery Plugins](https://gambardella.info/2016/09/05/guide-how-to-use-vue-js-with-jquery-plugins/)
+* [Writing Custom Vue.js Directives](https://alligator.io/vuejs/custom-directives/)
+* [Directivas de Vuejs](http://danywalls.com/2017/02/21/directivas-de-vuejs/)
+* [A Custom Two-Way v-model Component in Vue.js](https://elithrar.github.io/article/two-way-component-json/)
 
 ### Filtros 
 
