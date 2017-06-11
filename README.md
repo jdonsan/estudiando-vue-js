@@ -85,6 +85,8 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 ## Posts
 
 * [What I Learned About VueJS From Building A Chrome Extension](http://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/)
+* [Por qué me gusta Vue.js](http://mailchi.mp/92fe8a3fc007/por-que-me-gusta-vuejs)
+* [Quick Introduction to Vuejs](http://www.jomendez.com/2017/03/14/quick-introduction-vuejs/)
 
 ## Podcasts
 
@@ -96,10 +98,13 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 
 * [Pens sobre Vue](https://codepen.io/tag/vuejs/)
 * [Vue Script](http://www.vuescript.com/)
+* [Vue Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 
 ## Repositorios
 
-TBD
+* [Curso sobre VueJS2 para EscuelaIt](https://github.com/EscuelaIt/curso-vue-2017)
+* [Vijecnica](https://github.com/libre-forge/vijecnica)
+* [A blog based on GitHub Pages built with Vue.js 2 + webpack 2](https://github.com/viko16/vue-ghpages-blog)
 
 ## Comunidades
 
