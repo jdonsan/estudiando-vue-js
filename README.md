@@ -99,7 +99,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 
 ## Repositorios
 
-TBD
+* [A blog based on GitHub Pages built with Vue.js 2 + webpack 2](https://github.com/viko16/vue-ghpages-blog)
 
 ## Comunidades
 
