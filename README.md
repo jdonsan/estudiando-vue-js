@@ -53,11 +53,16 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 
 ## Libros
 
+* [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details)
 * [The Majesty of VueJS 2](https://leanpub.com/vuejs2)
 * [Learning VueJS 2](https://www.amazon.es/dp/1786469944?tag=pymlk3g3kr-20)
 * [Practical Vue.js: Reactive Components for Modern Web Interfaces](https://www.amazon.es/dp/B01I61WMOQ?tag=pymlk3g3kr-20)
 * [Vuex Concepts: The Flux Application Architecture for Vue.js](https://www.amazon.es/dp/B01I62LCBO?tag=pymlk3g3kr-20)
 * [Vue.js 2 Cookbook](https://www.amazon.es/dp/B01N6VAO4P?tag=pymlk3g3kr-20)
+
+## Feeds
+
+* [Vue Newsletter](https://www.getrevue.co/profile/vuenewsletter)
 
 ## Charlas
 
@@ -81,12 +86,14 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Dev.to relacionados con Vue](https://dev.to/t/vuejs)
 * [Yo.Toledano](https://yo.toledano.org/tag/vuejs.html)
 * [Coligo](https://coligo.io/tag/vue)
+* [Alex Jover Blog](https://alexjoverm.github.io/tags/VueJS/)
 
 ## Posts
 
 * [What I Learned About VueJS From Building A Chrome Extension](http://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/)
 * [Por qué me gusta Vue.js](http://mailchi.mp/92fe8a3fc007/por-que-me-gusta-vuejs)
 * [Quick Introduction to Vuejs](http://www.jomendez.com/2017/03/14/quick-introduction-vuejs/)
+* [Lazy Loading in Vue using Webpack's Code Splitting](https://alexjoverm.github.io/2017/07/16/Lazy-load-in-Vue-using-Webpack-s-code-splitting/)
 
 ## Podcasts
 
@@ -119,6 +126,9 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Juan Andrés Nuñez](https://twitter.com/juanwmedia)
 * [Rafael Casuso](https://twitter.com/Rafael_Casuso)
 * [Javier Abadía](https://twitter.com/javierabadia)
+* [Eduardo (Posva)](https://twitter.com/posva)
+* [Sébastien Chopin](https://twitter.com/Atinux)
+
 
 ## Funcionalidades
 
