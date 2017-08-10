@@ -87,6 +87,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Yo.Toledano](https://yo.toledano.org/tag/vuejs.html)
 * [Coligo](https://coligo.io/tag/vue)
 * [Alex Jover Blog](https://alexjoverm.github.io/tags/VueJS/)
+* [El abismo de null](https://elabismodenull.wordpress.com/tag/vuejs/)
 
 ## Posts
 
