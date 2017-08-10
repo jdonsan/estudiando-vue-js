@@ -6,6 +6,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Oficiales](#oficiales)
 * [Cursos](#cursos)
 * [Libros](#libros)
+* [Feeds](#feeds)
 * [Charlas](#charlas)
 * [Blogs](#blogs)
 * [Posts](#posts)
