@@ -71,6 +71,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [State of Vue Jan '17 at This.JavaScript with Evan You, Vue Core Team](https://www.youtube.com/watch?v=E84m5KrzOZk&list=PLQO-BHKSAJUJh0B-QpQrBH5AAdZ1RozkI&index=17)
 * [Análisis de Vue.JS #programadorIO](https://www.youtube.com/watch?v=gbnqzguSjRQ)
 * [VueJS: La Revolución Sencilla por Rafael Casuso](https://www.todojs.com/directo-vuejs-la-revolucion-sencilla-rafael-casuso/)
+* [Vuex ¿Para qué sirve? ¿Lo necesito?](https://www.youtube.com/watch?v=zC51h2jU0n4)
 
 ## Blogs
 
