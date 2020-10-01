@@ -42,6 +42,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 
 ## Cursos
 
+* [Curso gratis desde 0 de Coding Potions](https://codingpotions.com/curso-gratis-vue) 
 * [Curso de VueJS de Escuela IT](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs)
 * [Curso básico de VueJS de Platzi](https://platzi.com/cursos/vuejs/)
 * [Curso de Vue JS 2 en Español de udemy](https://www.udemy.com/curso-de-vuejs-2-en-espanol/)
@@ -160,6 +161,7 @@ Este repositorio cuenta con todos aquellos recursos necesarios para aprender Vue
 * [Vue.js 2 - Filtros em Listas](http://www.vuejs-brasil.com.br/vue-js-2-filtros-em-listas/)
 * [Simple Filter Component For Vue.js](http://www.vuescript.com/simple-filter-component-vue-js/)
 * [Novos Filters do Vue.js 2](http://andreybleme.com/2016-11-19/filters-vuejs-20/)
+* [Qué son los filters de Vue y cómo se usan](https://codingpotions.com/vue-filters)
 
 ### Migraciones
 
